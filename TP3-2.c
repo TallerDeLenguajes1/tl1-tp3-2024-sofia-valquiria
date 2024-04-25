@@ -23,6 +23,5 @@ void main(){
         }
         promedioAnio = promedioAnio / 12;
         printf("El promedio del %d° año es: %d \n",i+1,promedioAnio);
-    }
-    
+    }   
 }
